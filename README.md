@@ -1,6 +1,6 @@
-# Iosevka-etoile WebFont 17.1.0
+# Iosevka Etoile WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-etoile/Iosevka-etoile.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka etoile Web'` or `font-family: 'Iosevka etoile Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-etoile/iosevka-etoile-unhinted.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Etoile Web'` or `font-family: 'Iosevka Etoile Web'`.
