@@ -1,4 +1,4 @@
-# Iosevka Etoile WebFont 22.1.2
+# Iosevka Etoile WebFont 23.0.0
 
 ## How to use
 
