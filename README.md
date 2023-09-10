@@ -1,4 +1,4 @@
-# Iosevka Etoile WebFont 26.3.2
+# Iosevka Etoile WebFont 26.3.3
 
 ## How to use
 
